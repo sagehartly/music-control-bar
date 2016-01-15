@@ -43,11 +43,10 @@ body {
 }
 
 .album {
-position: absolute;
-
-left: 0;
-width: 60px;
-bottom: 0;
+  position: absolute;
+  left: 0;
+  width: 60px;
+  bottom: 0;
 }
 
 .time-bar {
