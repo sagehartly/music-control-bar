@@ -10,7 +10,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
   font-family: sans-serif;
 }
 
@@ -28,7 +27,6 @@ body {
   background-image: linear-gradient(to bottom, #e2e2e2, #ccc);
   text-align: center;
   color: #333;
-
   position: relative;
 }
 
@@ -52,10 +50,6 @@ width: 60px;
 bottom: 0;
 }
 
-.time {
-
-}
-
 .time-bar {
   height: 8px;
   margin: 0;
@@ -64,7 +58,6 @@ bottom: 0;
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
-
   width: 100%;
 }
 
@@ -88,12 +81,10 @@ bottom: 0;
   position: absolute;
   left: 70px;
   top: 30px;
-
 }
 
 .time-total {
   font-size: .7rem;
-
   position: absolute;
   right: 15px;
   top: 30px;
@@ -106,7 +97,6 @@ bottom: 0;
   font-size: 1.8rem;
   line-height: 16px;
   list-style-type: none;
-
   position: relative;
 }
 
@@ -115,7 +105,6 @@ bottom: 0;
   left: 70px;
   top: -50px;
   font-size: 1.2rem;
-
 }
 
 .control-list {
